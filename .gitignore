@@ -1,4 +1,9 @@
 .idea/
-*.iml 
+*.iml
 local.properties
 .DS_Store
+.gradle
+/build
+.externalNativeBuild
+.cxx
+/local.properties
